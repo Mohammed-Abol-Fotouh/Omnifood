@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./images/desktop-screenshot.png). ![Mobile Screenshot](./images/mobile-screenshot.png).
+![Desktop Screenshot](./img/Desktop-screenshot.png). ![Mobile Screenshot](./img/Mobile-Screenshot.png).
 
 ### Links
 
