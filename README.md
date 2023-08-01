@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Mohammed-Abol-Fotouh/Product-preview-card-component-Frontend-Mentor)
-- Live Site URL: [Live Site URL](https://mohammed-abol-fotouh.github.io/Product-preview-card-component-Frontend-Mentor/)
+- Solution URL: [Solution URL](https://github.com/Mohammed-Abol-Fotouh/Omnifood)
+- Live Site URL: [Live Site URL](https://mohammed-abol-fotouh.github.io/Omnifood/)
 
 ## My process
 
